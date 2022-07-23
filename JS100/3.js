@@ -10,4 +10,7 @@ console.log(typeof(arr));
 
 다음 출력 값으로 올바른 것은?
 
+
+object 출력 
+
 */
